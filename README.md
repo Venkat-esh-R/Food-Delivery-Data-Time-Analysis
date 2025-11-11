@@ -143,4 +143,11 @@ Add Geo-based clustering to further improve model granularity.
 
 Explore deep learning models (LSTM) for time-dependent predictions.
 
+https://github.com/Venkat-esh-R/Food-Delivery-Data-Time-Analysis.git
+🧑‍💻 Contact
 
+For queries or contributions:
+-Venkatesh
+-Praveen
+
+GitHub: https://github.com/Venkat-esh-R
